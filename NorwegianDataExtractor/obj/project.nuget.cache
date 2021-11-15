@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0B5J8uuUAbwrUz39KwlwiOr7uZwgQbuJERQ95Lj3g5rPaEBviqIio6XEwFtRKxgtq7Y/62brerN6vezK8thww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grigm\\Desktop\\Avia\\NorwegianDataExtractor\\NorwegianDataExtractor\\NorwegianDataExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grigm\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512",
+    "C:\\Users\\grigm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\grigm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\grigm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\grigm\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\grigm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorwegianDataExtractor", "NorwegianDataExtractor\NorwegianDataExtractor.csproj", "{594A82B0-0393-42C8-A363-24150FB845DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594A82B0-0393-42C8-A363-24150FB845DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594A82B0-0393-42C8-A363-24150FB845DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594A82B0-0393-42C8-A363-24150FB845DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594A82B0-0393-42C8-A363-24150FB845DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
